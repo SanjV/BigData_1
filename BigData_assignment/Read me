@@ -1,0 +1,34 @@
+To run the file:
+
+Place the input files in the folder and give the path of the input file in the source code.
+
+To execute the source code:
+
+Question1
+:load /home/sanjana/sxv163930_Asg2/SourceCode/question1.scala
+
+Question1_sql
+:load /home/sanjana/sxv163930_Asg2/SourceCode/question1_sql.scala
+
+Question2
+:load /home/sanjana/sxv163930_Asg2/SourceCode/question2.scala
+
+Question2_sql
+:load /home/sanjana/sxv163930_Asg2/SourceCode/question2_sql.scala
+
+Question3
+:load /home/sanjana/sxv163930_Asg2/SourceCode/question3.scala
+
+Question3_sql
+:load /home/sanjana/sxv163930_Asg2/SourceCode/question3_sql.scala
+
+Question4
+:load /home/sanjana/sxv163930_Asg2/SourceCode/question4.scala
+
+Question4_sql
+:load /home/sanjana/sxv163930_Asg2/SourceCode/question4_sql.scala
+
+
+
+
+
